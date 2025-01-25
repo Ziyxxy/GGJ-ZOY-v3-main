@@ -11,5 +11,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Boss Scene.unity
     guid: fb25b5072b8df2944b0fe87f96c23814
+  - enabled: 1
+    path: Assets/Main Menu.unity
+    guid: 526a6338da525c748822620db82c5f12
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
